@@ -11,9 +11,7 @@
 <br>
 
 ### 2. 반려동물의 안구질환을 식별할 수 있는 모델
-* 사용 알고리즘 : MobileNet
-* 모델 : Custom CNN, AlexNet, ResNet 등의 여러 CNN 모델을 Ensemble로 적용
-* 
+* 사용 모델 : MobileNet
 
 <br>
 
