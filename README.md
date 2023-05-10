@@ -15,11 +15,10 @@
 * 사용 모델 : MobileNet
 * Accuracy : 96.7%
 <div style="display: flex;">
-<img width="300" alt="loss" src="https://github.com/kang9366/PetKeeper_DeepLearning/assets/63611804/616c3051-5369-404e-ba38-c22266c41f85">
-<img width="300" alt="accuracy" src="https://github.com/kang9366/PetKeeper_DeepLearning/assets/63611804/daa06c45-7e27-4cb5-9f66-7e25cee19adc">
+<img width="400" alt="loss" src="https://github.com/kang9366/PetKeeper_DeepLearning/assets/63611804/616c3051-5369-404e-ba38-c22266c41f85">
+<img width="400" alt="accuracy" src="https://github.com/kang9366/PetKeeper_DeepLearning/assets/63611804/daa06c45-7e27-4cb5-9f66-7e25cee19adc">
 </div>
 
-style="width: 50%;"
 <br>
 
 ### 3. 반려동물의 피부질환을 식별할 수 있는 모델
