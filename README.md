@@ -11,8 +11,15 @@
 <br>
 
 ### 2. 반려동물의 안구질환을 식별할 수 있는 모델
+#### 1. 결막염
 * 사용 모델 : MobileNet
+* Accuracy : 96.7%
+<div>
+<img width="534" alt="loss" src="https://github.com/kang9366/PetKeeper_DeepLearning/assets/63611804/616c3051-5369-404e-ba38-c22266c41f85" style="width: 50%;">
+<img width="534" alt="accuracy" src="https://github.com/kang9366/PetKeeper_DeepLearning/assets/63611804/daa06c45-7e27-4cb5-9f66-7e25cee19adc" style="width: 50%;">
+</div>
 
+style="width: 50%;"
 <br>
 
 ### 3. 반려동물의 피부질환을 식별할 수 있는 모델
@@ -25,4 +32,3 @@
 * 사용 알고리즘 : object-detection
 * 모델 : yolov5
 * 사용 데이터
-* 
