@@ -42,3 +42,6 @@ Laplacian Transform의 분산을 사용하여 이미지의 흐림 정도를 식�
 ### 2. 피부질환 식별 모델
 * 사용 알고리즘 : CNN
 * 모델 : Custom CNN, AlexNet, ResNet 등의 여러 CNN 모델을 Ensemble로 적용
+
+
+
