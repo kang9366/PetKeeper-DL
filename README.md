@@ -40,10 +40,10 @@ Laplacian Transform의 분산을 사용하여 이미지의 흐림 정도를 식�
 #### 2. DenseNet (best validation accuracy: 0.69)
 <img width="894" alt="image" src="https://github.com/kang9366/PetKeeper-DL/assets/63611804/db89f110-f5ad-4ce4-8c77-344a661e4fba">
 
-#### 3. ResNet (ResNet (best validation accuracy: 0.766)
+#### 3. ResNet (best validation accuracy: 0.766)
 <img width="893" alt="image" src="https://github.com/kang9366/PetKeeper-DL/assets/63611804/6eb2e7a4-3547-4ea4-a85e-79725d4268a1">
 
-#### 4. VGG (ResNet (best validation accuracy: 0.763)
+#### 4. VGG (best validation accuracy: 0.763)
 <img width="893" alt="image" src="https://github.com/kang9366/PetKeeper-DL/assets/63611804/d9b430c2-8e51-424c-b2c1-78376fedd21b">
 
 #### 5. MobileNet (best validation accuracy: 0.768)
